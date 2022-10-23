@@ -1,0 +1,26 @@
+//- PAGES -//
+- Home page\index.html => main.js + Css/style.css .
+
+- subscribe page\subscribe.html => <script>Tag + Css/style.css .
+
+- plans page\plans.html => Css/style.css .
+
+- skills page\skills.html => <script>Tag + Css/style.css .
+
+- skill_videos page\skill_videos.html => <script>Tag + Css/style.css .
+
+-------------------------------------
+//- Css Order -//
+[1] Public Selectors .
+[2] Responsive  .
+
+[3] Home page .
+[4] subscribe page .
+[5] plans pagee .
+[6] skills page .
+[7] skill_videos .
+
+-------------------------
+//- Styling Order -//
+[1] Styling Of page
+[2] Animation =>[@keyframes]
